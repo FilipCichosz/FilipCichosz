@@ -17,7 +17,6 @@ I'm a 3rd year IT student at Silesian University of Technology. This is my offic
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=SQLite&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 
 ---
