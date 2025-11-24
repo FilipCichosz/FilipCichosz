@@ -4,7 +4,7 @@
 
 # Hello World!  Filip here.
 
-I'm a 3rd year IT student at Silesian University of Technology. This is my official GitHub where I post my work, currently a merger of other platforms.
+I'm a 5rd year IT student at Silesian University of Technology. This is my official GitHub where I post my work, currently a merger of other platforms.
 
 - 🧠 I’m currently learning backward compatibility for apps in whole windows os family and usage of python in AI and any type of network and data-flow testing.
 
